@@ -3,3 +3,21 @@
     margin: 0;
     font-size: 40px;
 }
+.box-one {
+    /*styling and positioning boxes with css*/
+    background-color: red;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid purple;
+    margin: 20px;
+}
+.box-two {
+    /*playing with positions and colors*/
+    background-color: blue;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid green;
+    margin: 60px;
+}
